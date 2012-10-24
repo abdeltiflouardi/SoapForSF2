@@ -3,16 +3,11 @@
     "type": "library",
     "description": "Fork of besimplesoap",
     "keywords": ["soap", "symfony2"],
-    "homepage": "",
     "license": "MIT",
     "authors": [
         {
             "name": "LOUARDI Abdeltif",
             "email": "louardi.abdeltif@yahoo.fr"
-        },
-        {
-            "name": "",
-            "homepage": ""
         }
     ],
     "require": {
