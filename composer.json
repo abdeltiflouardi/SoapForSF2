@@ -21,5 +21,6 @@
     "autoload": {
         "psr-0": { "BeSimple\\": "os/soap-for-sf2", "Zend\\": "os/soap-for-sf2" }
     },
+    "target-dir": "os/soap-for-sf2",
     "minimum-stability": "dev"
 }
