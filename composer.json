@@ -25,5 +25,5 @@
             "src/Symfony/Component/Locale/Resources/stubs"
         ]
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
