@@ -1,5 +1,5 @@
 {
-    "name": "ouardisoft/soap-for-sf2",
+    "name": "os/soap-for-sf2",
     "type": "library",
     "description": "Fork of besimplesoap",
     "keywords": ["soap", "symfony2"],
