@@ -1,6 +1,6 @@
 {
     "name": "os/soap-for-sf2",
-    "type": "library",
+    "type": "soap-library",
     "description": "Fork of besimplesoap",
     "keywords": ["soap", "symfony2"],
     "license": "MIT",
